@@ -24,5 +24,8 @@ class Student {
 
     //defining email as column name
     @Column
-    var email: String? = null
+    var dept: String = ""
+
+//    @Column
+//    var emailid:String =""
 }
